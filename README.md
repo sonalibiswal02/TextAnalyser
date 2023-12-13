@@ -1,2 +1,3 @@
 # TextAnalyser
-A text analyser which has some cool features! 
+A text analyser built with React which has some cool features! 
+
